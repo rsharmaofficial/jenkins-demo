@@ -1,1 +1,1 @@
-print("rishabh dev sharmaji")
+printrishabh dev sharmaji")
