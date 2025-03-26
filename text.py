@@ -1,1 +1,1 @@
-printrishabh dev sharmaji")
+print("rishabh dev sharmaji")
